@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My Android</string>
+    <string-array name="image_title">
+        <item>ALPHA 1.0</item>
+        <item>BETA 1.1</item>
+        <item>CUPCAKE 1.5</item>
+        <item>DONUT 1.6</item>
+        <item>ECLAIR 2.0-2.1</item>
+        <item>FROYO 2.2-2.2.3</item>
+        <item>GINGERBREAD 2.3-2.3.7</item>
+        <item>HONEYCOMB 3.0=3.2.6</item>
+        <item>ICECREAM SANDWICH 4.0-4.0.4</item>
+        <item>JELLY BEAN 4.1-4.3.1</item>
+        <item>KITKAT 4.4-4.4.4</item>
+        <item>LOLLIPOP 5.0-5.1.1</item>
+        <item>MARSHMALLOW 6.0-6.0.1</item>
+        <item>NOUGAT 7.0</item>
+        <item>NOUGAT 7.1.0-7.1.2</item>
+        <item>OREO 8.0</item>
+        <item>OREO 8.1</item>
+        <item>PIE 9.0</item>
+        <item>ANDROID 10</item>
+    </string-array>
+    <string-array name="api">
+        <item>API1</item>
+        <item>API2</item>
+        <item>API3</item>
+        <item>API4</item>
+        <item>API5-7</item>
+        <item>API8</item>
+        <item>API9-10</item>
+        <item>API11-13</item>
+        <item>API14-15</item>
+        <item>API16-18</item>
+        <item>API19-20</item>
+        <item>API21-22</item>
+        <item>API23</item>
+        <item>API24</item>
+        <item>API25</item>
+        <item>API26</item>
+        <item>API27</item>
+        <item>API28</item>
+        <item>API29</item>
+    </string-array>
+    <string-array name="date">
+        <item>Sept 23,2008</item>
+        <item>Feb 9,2009</item>
+        <item>April 27,2009</item>
+        <item>Sept 15,2009</item>
+        <item>Oct 26,2009</item>
+        <item>May 20,2010</item>
+        <item>Dec 6,2010</item>
+        <item>Feb 22,2011</item>
+        <item>Oct 18,2011</item>
+        <item>July 9,2012</item>
+        <item>Oct 31,2013</item>
+        <item>Nov 12,2014</item>
+        <item>Oct 5,2015</item>
+        <item>Aug 22,2016</item>
+        <item>Oct 4,2016</item>
+        <item>Aug 21,2017</item>
+        <item>Dec 5,2017</item>
+        <item>Aug 6,2018</item>
+        <item>Se 3,2019</item>
+    </string-array>
+</resources>
